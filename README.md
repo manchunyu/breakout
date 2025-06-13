@@ -1,2 +1,1 @@
-# breakout
-Breakout game
+Breakout Game
